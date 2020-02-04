@@ -7,14 +7,15 @@ Heroku Repository  https://notetaker-assignment.herokuapp.com/notes
 GIT Repository  https://anu-dam.github.io/11-Note-Taker
 
 
-# Project Description
-A note taker that allows you to input a title, body, and journal message. Built with Express, the backend is fully funtional.
+## Project Overview
+
+A note taker that allows you to input a title and journal message for future use. App is built with JavaScript Node-Express technologies.
 
 # User Story
 
-AS A a hard-working individual, I need an application that allows me to store notes in an organized way.
+Aa a hard-working individual, I need an application that allows me to store notes in an organized way to use in future.
 
-I WANT to be able to load the page and press start that will bring me to the notes page.
+Application will load the index page and press start that will bring user to the notes page where you can update all notes.
 
-I WANT to be able to input messages with Titles, and an option to delete my note when I choose.
+User need to input messages with Titles along with content, and an option to delete saved note when ever required.
 
