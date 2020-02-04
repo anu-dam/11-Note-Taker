@@ -11,7 +11,7 @@ GIT Repository  https://anu-dam.github.io/11-Note-Taker
 
 A note taker that allows you to input a title and journal message for future use. App is built with JavaScript Node-Express technologies.
 
-# User Story
+## User Story
 
 Aa a hard-working individual, I need an application that allows me to store notes in an organized way to use in future.
 
